@@ -18,6 +18,8 @@ def main():
         if (len(u['topics']) == 0):
             print "No topics for %s" % u['name']
             continue
+
+        u['topics'].sort(key=lambda t:t['count'], reverse=True)
         primary = u['topics'][0]
         pn = primary['name']
         u2 = dp(u)
