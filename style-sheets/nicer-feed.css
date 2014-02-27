@@ -1,0 +1,23 @@
+.new_feed .feed_item_photo .profile_photo_img {
+  margin:0px;
+  margin-left:-30px !important;
+  height:74px !important;
+  width:74px !important;
+}
+
+.focus_feed .left_col{
+  margin-left:-80px;
+  text-align: right !important;
+}
+
+.header_add_question_button{
+  display:none;
+}
+
+.focus_feed .header .contents {
+  width: 805px;
+}
+
+.focus_feed .header.with_add_question_button .full_search.instant_results .question_box {
+    width: 535px;
+}
