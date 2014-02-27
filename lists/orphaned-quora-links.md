@@ -8,7 +8,7 @@ Quora has some feeds and pages that aren't accessible from the user interface. S
     
 *   [Reviews Feed - Quora](http://www.quora.com/reviews)
 
-    The latest redesign to the feed remove the link to the Reviews feed. Here it is.
+    The latest redesign to the feed removes the link to the Reviews feed. Here it is.
     
 *   [Quora Shuffle](http://www.quora.com/shuffle)
     
