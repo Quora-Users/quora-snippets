@@ -1,3 +1,5 @@
+Quora Snippets
+--------------
 
 Here are various code snippets from [different authors][contributors] we’ve
 used to [answer questions][bf-qs] on Quora, and/or make our life easier on
